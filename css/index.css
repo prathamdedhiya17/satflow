@@ -1,0 +1,113 @@
+body {
+    background: #E4E6F1;
+    font-family: sora;
+}
+
+.navbar {
+    border-bottom: 1px solid rgba(78, 90, 133, 0.2);
+    padding: 20p 20px;
+}
+
+.btn1 {
+    color: white;
+    background-color: #98a6c7;
+    border: none;
+    padding: 16px 24px;
+    border-radius: 8px;
+}
+
+.moto {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px;
+}
+
+.main {
+    font-size: 50px;
+    width: 30%;
+}
+
+.content {
+    width: 20%;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #7E8BB6;
+}
+
+.dashboard {
+    width: 90%;
+}
+
+.logos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.des {
+    margin: 5rem;
+}
+
+.feature-blocks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background: #E4E6F1;
+    width: 40%;
+}
+
+.card:hover {
+    cursor: pointer;
+    background-color: white;
+    box-shadow: 0px 35px 45px rgba(7, 14, 39, 0.05);
+}
+
+.card-body {
+    padding-top: 0px;
+}
+
+.start {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin: 60px auto;
+    background: #0059F7;
+    border-radius: 24px;
+    padding: 20px;
+    color: white;
+}
+
+small {
+    color:rgba(255, 255, 255, 0.5)
+}
+
+.start svg {
+    margin: 0;
+}
+
+.start button {
+    background: #689EFF;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    padding: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background: #162044;
+    color: #CCD2E9
+}
+
+.footer div {
+    margin: auto;
+}
+
+svg {
+    margin: 30px;
+}
