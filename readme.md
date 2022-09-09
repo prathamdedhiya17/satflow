@@ -5,8 +5,10 @@ Task 1 - Front End Development
 A responsive webpage along with Dark and Light Mode which change with Systemwide changes in the respective modes.
 
 
-***
+If you want to activate dark mode, change your system theme to dark mode, similarly for light mode change your system theme to light mode.
 
+***
+## Screenshots of the entire Webpage
 
 <img src="img/DarkMode.png" alt="Dark Mode Image" width=45%>   <img src = "img/LightMode.png" alt="Light Mode Image" width=45%>
 
@@ -17,7 +19,7 @@ A responsive webpage along with Dark and Light Mode which change with Systemwide
 - Animate on Scroll (AOS)
 
 
----
+
 
 
 # Responsive Design
